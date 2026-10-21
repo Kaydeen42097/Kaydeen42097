@@ -10,8 +10,9 @@ Java | Python | HTML/CSS | Git | WPILib | GML | GO | PhotoVision
 ## Featured Projects
 
  FRC Robot Code
-This is all the PhotoVision and WPILib code for FRC team 11436. I am new to FRC, and I had to get a lot of AI help; all the code does work, and I do understand the gist of how it works.
+This is all the PhotoVision and WPILib code for FRC team 11436. I am new to FRC, and I had to get a lot of AI help; all the code does work, and I do understand the gist of how it works for 2025. The first link is the complete 2025 code. The second link is my new code for our swerve drive for 2026.
 + https://github.com/Kaydeen42097/FRC-Robotics-Control-System-Java-WPILib-
++ https://github.com/Kaydeen42097/Basic-swerve-code-frc-team-11436
   
 
  Enigma Cipher
